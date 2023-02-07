@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/zamekmorag/static/css/main.405a05d9.css",
+    "main.js": "/zamekmorag/static/js/main.5cdbef78.js",
+    "static/js/787.28cb0dcd.chunk.js": "/zamekmorag/static/js/787.28cb0dcd.chunk.js",
+    "static/media/BackgroundFoto.png": "/zamekmorag/static/media/BackgroundFoto.16c9fc45170d0999e68e.png",
+    "static/media/dol-new.png": "/zamekmorag/static/media/dol-new.79a029f1131eb14baa6c.png",
+    "static/media/front-now.jpg": "/zamekmorag/static/media/front-now.964628a3225d2f2b9183.jpg",
+    "static/media/front-old.jpg": "/zamekmorag/static/media/front-old.1988513f583d0e838c52.jpg",
+    "static/media/dol-old.jpg": "/zamekmorag/static/media/dol-old.2f33ad670cde055bc22c.jpg",
+    "static/media/Montserrat-Regular.ttf": "/zamekmorag/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/first.png": "/zamekmorag/static/media/first.abed0f698aff4d52dc61.png",
+    "static/media/second.png": "/zamekmorag/static/media/second.d5e4318c3af23cd26a7f.png",
+    "static/media/GoogleSans-Italic.ttf": "/zamekmorag/static/media/GoogleSans-Italic.40bb50bd202405745006.ttf",
+    "static/media/GoogleSans-MediumItalic.ttf": "/zamekmorag/static/media/GoogleSans-MediumItalic.56d4f777a7997e5a10b3.ttf",
+    "static/media/GoogleSans-BoldItalic.ttf": "/zamekmorag/static/media/GoogleSans-BoldItalic.d282e9c31d0f894a7f06.ttf",
+    "static/media/GoogleSans-Regular.ttf": "/zamekmorag/static/media/GoogleSans-Regular.bec0591b6a291c3ca895.ttf",
+    "static/media/GoogleSans-Medium.ttf": "/zamekmorag/static/media/GoogleSans-Medium.963c3e555aaada9ef8a9.ttf",
+    "static/media/GoogleSans-Bold.ttf": "/zamekmorag/static/media/GoogleSans-Bold.d907e4bf3e32637a636e.ttf",
+    "static/media/Agustina.woff": "/zamekmorag/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/ZamekLogo.png": "/zamekmorag/static/media/ZamekLogo.320a742a4042214f87a4.png",
+    "index.html": "/zamekmorag/index.html",
+    "main.405a05d9.css.map": "/zamekmorag/static/css/main.405a05d9.css.map",
+    "main.5cdbef78.js.map": "/zamekmorag/static/js/main.5cdbef78.js.map",
+    "787.28cb0dcd.chunk.js.map": "/zamekmorag/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.405a05d9.css",
+    "static/js/main.5cdbef78.js"
+  ]
+}
